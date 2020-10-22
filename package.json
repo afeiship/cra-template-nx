@@ -7,8 +7,27 @@
     "name": "afeiship",
     "email": "1290657123@qq.com"
   },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "nx"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
   "license": "MIT",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "dependencies": {
+    "@feizheng/next-js-core2": "^2.6.0",
+    "@feizheng/next-react-redux": "^3.0.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }

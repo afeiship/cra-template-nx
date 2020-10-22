@@ -1,0 +1,14 @@
+{
+  "name": "cra-template-nx",
+  "version": "1.0.0",
+  "description": "Cra template for next.",
+  "homepage": "https://github.com/afeiship/cra-template-nx",
+  "author": {
+    "name": "afeiship",
+    "email": "1290657123@qq.com"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }
+}

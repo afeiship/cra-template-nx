@@ -1,0 +1,10 @@
+{
+  "package": {
+    "dependencies": {
+      "serve": "^11.2.0"
+    },
+    "scripts": {
+      "serve": "serve -s build"
+    }
+  }
+}

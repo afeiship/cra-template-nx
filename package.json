@@ -13,6 +13,7 @@
     "template",
     "nx"
   ],
+  "main": "template.json",
   "files": [
     "template",
     "template.json"
@@ -23,11 +24,5 @@
   },
   "engines": {
     "node": ">=10"
-  },
-  "dependencies": {
-    "@feizheng/next-js-core2": "^2.6.0",
-    "@feizheng/next-react-redux": "^3.0.2",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
   }
 }
